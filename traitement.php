@@ -1,8 +1,8 @@
 <?php
 
-$host = "localhost";
-$username = "root";
-$password = "";
+$host = "dbaudreyfatou.mysql.database.azure.com";
+$username = "FatouAudrey";
+$password = "Kayes_Kone";
 $dbname = "fatoudrey";
 
 // Utilisation de gestion d'exceptions pour la connexion à la base de données
